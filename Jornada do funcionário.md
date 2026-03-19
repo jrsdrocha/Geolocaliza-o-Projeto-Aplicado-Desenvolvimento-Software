@@ -1,4 +1,4 @@
-```md
+
 # Persona: Jonas Lima — Funcionário Otimizador de Fluxo
 
 ## 🎯 Objetivo da Jornada
