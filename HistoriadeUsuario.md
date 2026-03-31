@@ -1,4 +1,4 @@
-```md id="kq3lx"
+
 # 📘 User Story — Assistente de Localização (Modo Funcionário)
 
 ---
