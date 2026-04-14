@@ -1,4 +1,4 @@
-##História de Funcionário -- Organização e gerenciamento do Acervo
+## História de Funcionário -- Organização e gerenciamento do Acervo
 
 ### Pesquisa um livro específico para verificar sua localização correta → sente que pode agir com mais precisão.  
 ( Touchpoint — campo de busca administrativo )
