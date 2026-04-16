@@ -1,46 +1,67 @@
 # Jornada de Usuário — Organizar Acervo e Apoiar Atendimento (Funcionário Operacional)
 
-• 1. Percebe que há livros fora do lugar ou dificuldade em localizar itens → sente frustração com a desorganização e retrabalho.  
+• 1. Percebe que há livros desorganizados, deixados na banca principal para serem organizados nas estantes → sente frustração com a desorganização e retrabalho.  
 • (Não é touchpoint direto)  
 
-• 2. Acessa o sistema interno da biblioteca → busca uma forma mais rápida de organizar o acervo.  
-• ( Touchpoint — dashboard/login administrativo)  
+• 2. Recolhe a pilha de livros para organizar → sente pressão para otimizar o tempo e evitar retrabalho.  
+• (Não é touchpoint direto)  
 
-• 3. Visualiza a lista de livros e suas localizações cadastradas → tenta entender a organização atual do sistema.  
-• ( Touchpoint — lista de livros/CRUD)  
+• 3. Acessa o sistema interno da biblioteca → busca uma forma mais rápida de organizar o acervo.  
+• ( Touchpoint — Tela Funcionário/Log-in personalizado)  
 
-• 4. Pesquisa um livro específico para verificar sua localização correta → sente que pode agir com mais precisão.  
-• ( Touchpoint — campo de busca administrativo)  
+• 4. Vai Pesquisando e adicionando os livros e construindo rota personalizada → espera ganhar eficiência no processo.  
+• ( Touchpoint — gerador de rota de organização)  
 
-• 5. Consulta os detalhes do livro e sua posição no mapa → confirma onde o livro deveria estar.  
+• 5. Visualiza a rota sugerida com base na localização dos livros → sente clareza sobre por onde começar.  
+• ( Touchpoint — mapa com rota otimizada)  
+
+• 6. Segue o passo a passo da rota no ambiente físico → sente fluidez e redução de esforço.  
+• ( Touchpoint — navegação guiada básica)  
+
+• 7. Confere cada livro durante o percurso → tenta garantir que está no local correto.  
+• (Não é touchpoint direto)  
+
+• 8. Consulta detalhes do livro quando há dúvida → confirma onde o livro deveria estar.  
 • ( Touchpoint — tela de detalhe do livro)  
 
-• 6. Compara a localização digital com a posição física na estante → identifica inconsistências.  
+• 9. Reorganiza fisicamente os livros nas estantes corretas → sente progresso e organização crescente.  
 • (Não é touchpoint direto)  
 
-• 7. Reorganiza fisicamente os livros fora do lugar → sente que está melhorando a ordem do acervo.  
+• 10. Identifica inconsistências entre físico e digital → percebe falhas no sistema ou processo.  
 • (Não é touchpoint direto)  
 
-• 8. Atualiza ou corrige a localização no sistema quando necessário → garante alinhamento entre físico e digital.  
+• 11. Atualiza ou corrige a localização no sistema quando necessário → garante alinhamento entre físico e digital.  
 • ( Touchpoint — edição de localização do livro)  
 
-• 9. Recebe uma solicitação de ajuda de um cliente → precisa responder rapidamente.  
+• 12. Encontra um livro maltratado ou danificado no acervo → sente preocupação com a qualidade do serviço.  
 • (Não é touchpoint direto)  
 
-• 10. Utiliza o sistema para buscar o livro solicitado → sente segurança ao fornecer uma resposta precisa.  
-• ( Touchpoint — busca no sistema)  
-
-• 11. Mostra ou orienta o cliente usando o mapa da biblioteca → percebe eficiência no atendimento.  
-• ( Touchpoint — mapa digital da biblioteca)  
-
-• 12. Acompanha o fluxo de clientes e demandas no ambiente → tenta priorizar tarefas.  
+• 13. Remove o livro da estante → entende que ele não deve permanecer disponível ao público.  
 • (Não é touchpoint direto)  
 
-• 13. Consulta promoções e novidades no sistema → se prepara para informar melhor os clientes.  
+• 14. Atualiza o status do livro como indisponível no sistema → mantém consistência entre físico e digital.  
+• ( Touchpoint — edição de status do livro)  
+
+• 15. Registra o problema com descrição, origem e prioridade → sente controle e responsabilidade sobre a ocorrência.  
+• ( Touchpoint — formulário de registro de problemas)  
+
+• 16. Acompanha o fluxo de clientes e demandas no ambiente → tenta priorizar tarefas e reduzir filas.  
+• (Não é touchpoint direto)  
+
+• 17. Consulta promoções e novidades no sistema → se prepara para informar melhor os clientes.  
 • ( Touchpoint — painel de promoções/novidades)  
 
-• 14. Finaliza a organização com o acervo atualizado e consistente → sente satisfação e controle sobre o trabalho.  
+• 18. Acessa metas e direcionamentos definidos pela gestão → entende prioridades e demandas da biblioteca.  
+• ( Touchpoint — painel de metas operacionais)  
+
+• 19. Acompanha o status das queixas registradas → sente confiança de que será ouvido.  
+• ( Touchpoint — lista/status de ocorrências)  
+
+• 20. Envia feedback sobre demandas, dificuldades e sugestões → sente-se valorizado pela gestão.  
+• ( Touchpoint — envio de feedback)  
+
+• 21. Finaliza a organização com o acervo atualizado e consistente → sente satisfação e controle sobre o trabalho.  
 • (Não é touchpoint direto)  
 
-• 15. Passa a utilizar o sistema como apoio contínuo no dia a dia → sente-se mais eficiente, preparado e valorizado.  
-• ( Touchpoint — uso recorrente do sistema interno)  
+• 22. Passa a utilizar o sistema como apoio contínuo no dia a dia → sente-se mais eficiente, preparado e valorizado.  
+• ( Touchpoint — uso recorrente do sistema interno)   
