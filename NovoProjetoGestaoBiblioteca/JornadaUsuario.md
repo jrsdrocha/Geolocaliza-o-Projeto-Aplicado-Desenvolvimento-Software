@@ -21,6 +21,7 @@ Encontra:
 - campo de busca
 - sugestões
 - categorias
+- promoções
 
 → Emoção: curiosidade  
 → Touchpoint: tela inicial  
