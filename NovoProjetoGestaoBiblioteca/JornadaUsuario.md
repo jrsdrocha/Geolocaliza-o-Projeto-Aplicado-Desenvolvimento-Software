@@ -1,46 +1,136 @@
-# Jornada de Usuário — Descobrir e Encontrar Livros na Biblioteca (Leitor Indeciso)
+# 📚 Jornada de Usuário — Descobrir e Encontrar Livros na Biblioteca (Leitor Indeciso)
 
-• 1. Percebe que está perdido dentro da biblioteca sem saber por onde começar → sente frustração e quer encontrar algo interessante rapidamente.  
-• (Não é touchpoint direto)  
+## 1. Percebe desorientação no espaço
+Está na biblioteca, mas não sabe por onde começar.
 
-• 2. Observa um totem ou acessa o aplicativo da biblioteca no celular → acredita que pode encontrar ajuda sem precisar falar com alguém.  
-• ( Touchpoint — app/totem de acesso)  
+→ Emoção: frustração + indecisão  
+→ (Sem touchpoint)
 
-• 3. Visualiza a tela inicial com busca e sugestões de livros → sente curiosidade e percebe que pode explorar opções facilmente.  
-• ( Touchpoint — tela inicial)  
+---
 
-• 4. Explora categorias ou sugestões exibidas (ex: “mais populares”, “novidades”) → sente-se guiado e menos perdido.  
-• ( Touchpoint — seção de recomendações)  
+## 2. Busca ajuda digital
+Vê um totem ou acessa o app da biblioteca no celular.
 
-• 5. Digita um tema, gênero ou palavra-chave na busca → sente que está assumindo controle da experiência.  
-• ( Touchpoint — campo de busca)  
+→ Emoção: esperança de autonomia  
+→ Touchpoint: app / totem de acesso
 
-• 6. Visualiza a lista de resultados com capas e títulos → começa a se interessar por algumas opções.  
-• ( Touchpoint — lista de resultados)  
+---
 
-• 7. Seleciona um livro que chamou atenção pela capa ou título → sente expectativa de ter encontrado algo interessante.  
-• ( Touchpoint — item da lista de resultados)  
+## 3. Visualiza tela inicial
+Encontra:
+- campo de busca
+- sugestões
+- categorias
 
-• 8. Analisa a tela de detalhes com sinopse e informações → avalia se o livro realmente vale a pena.  
-• ( Touchpoint — tela de detalhe do livro)  
+→ Emoção: curiosidade  
+→ Touchpoint: tela inicial  
+→ Funcionalidade: busca + recomendações
 
-• 9. Decide visualizar a localização do livro no mapa → quer garantir que conseguirá encontrá-lo sozinho.  
-• ( Touchpoint — botão “ver no mapa”)  
+---
 
-• 10. Observa o mapa da biblioteca com a estante destacada → sente segurança de que sabe para onde ir.  
-• ( Touchpoint — mapa digital da biblioteca)  
+## 4. Explora sugestões e categorias
+Navega por:
+- mais populares
+- novidades
+- categorias
 
-• 11. Interpreta o caminho e memoriza a rota até o local → sente confiança e independência.  
-• (Não é touchpoint direto)  
+→ Emoção: orientação  
+→ Touchpoint: seção de recomendações
 
-• 12. Segue fisicamente até a estante indicada → espera encontrar rapidamente o livro.  
-• (Não é touchpoint direto)  
+---
 
-• 13. Confere o ambiente físico com o que viu no mapa → valida que está no lugar correto.  
-• (Não é touchpoint direto)  
+## 5. Realiza uma busca ativa
+Digita tema, gênero ou palavra-chave.
 
-• 14. Encontra o livro na estante → sente satisfação e recompensa por ter conseguido sozinho.  
-• (Não é touchpoint direto)  
+→ Emoção: controle  
+→ Touchpoint: campo de busca
 
-• 15. Considera explorar outros livros sugeridos no sistema → sente motivação para continuar descobrindo novas opções.  
-• ( Touchpoint — recomendações relacionadas)  
+---
+
+## 6. Analisa resultados
+Visualiza lista com:
+- capas
+- títulos
+- informações básicas
+
+→ Emoção: interesse  
+→ Touchpoint: lista de resultados
+
+---
+
+## 7. Seleciona um livro
+Escolhe com base em:
+- capa
+- título
+- relevância
+
+→ Emoção: expectativa  
+→ Touchpoint: item da lista
+
+---
+
+## 8. Avalia detalhes do livro
+Consulta:
+- sinopse
+- informações gerais
+
+→ Emoção: decisão  
+→ Touchpoint: tela de detalhe do livro
+
+---
+
+## 9. Solicita localização do livro
+Quer garantir que conseguirá encontrar sozinho.
+
+→ Emoção: segurança  
+→ Touchpoint: botão “ver no mapa”
+
+---
+
+## 10. Visualiza mapa da biblioteca
+Vê:
+- estante destacada
+- posição atual (se disponível)
+
+→ Emoção: confiança  
+→ Touchpoint: mapa digital
+
+---
+
+## 11. Interpreta a rota
+Memoriza o caminho até o local.
+
+→ Emoção: independência  
+→ (Sem touchpoint)
+
+---
+
+## 12. Desloca-se até a estante
+Segue fisicamente o trajeto.
+
+→ (Sem touchpoint)
+
+---
+
+## 13. Valida o local
+Confere se o ambiente corresponde ao mapa.
+
+→ Emoção: confirmação  
+→ (Sem touchpoint)
+
+---
+
+## 14. Encontra o livro
+Localiza o item na estante.
+
+→ Emoção: satisfação + recompensa  
+→ (Sem touchpoint)
+
+---
+
+## 15. Continua explorando
+Considera novos livros sugeridos.
+
+→ Emoção: engajamento  
+→ Touchpoint: recomendações relacionadas  
+→ Funcionalidade: sugestões baseadas no livro visualizado
