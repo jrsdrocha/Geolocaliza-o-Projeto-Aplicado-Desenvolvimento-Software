@@ -1,43 +1,168 @@
 # Jornada de Usuário — Gerenciar Biblioteca com Dados e Insights (Gestora)
 
-• 1. Percebe dificuldade em entender o desempenho da biblioteca com dados dispersos → sente insegurança para tomar decisões.  
-• (Não é touchpoint direto)  
+## 1. Reconhece falta de clareza sobre desempenho
+Percebe que os dados estão dispersos e não consegue responder perguntas como:
+- quais livros estão parados?
+- o que está sendo mais procurado?
 
-• 2. Acessa o sistema administrativo da biblioteca → busca centralizar informações em um único lugar.  
-• ( Touchpoint — dashboard/login administrativo)  
+→ Dor: insegurança na tomada de decisão  
+→ (Sem touchpoint)
 
-• 3. Visualiza o painel inicial com indicadores básicos de estoque e acervo → sente alívio ao ter uma visão geral do cenário.  
-• ( Touchpoint — dashboard principal)  
+---
 
-• 4. Explora a listagem de livros cadastrados → tenta entender a organização atual do acervo.  
-• ( Touchpoint — lista de livros/CRUD)  
+## 2. Acessa o dashboard administrativo
+Busca uma visão consolidada e confiável.
 
-• 5. Consulta informações de disponibilidade e localização dos livros → percebe maior controle sobre o estoque.  
-• ( Touchpoint — tela de detalhe do livro administrativo)  
+→ Touchpoint: Login + Dashboard inicial  
+→ Funcionalidade: resumo automático de indicadores
 
-• 6. Analisa quais livros estão mais disponíveis ou com baixa saída → começa a identificar oportunidades de melhoria.  
-• ( Touchpoint — indicadores simples de estoque)  
+---
 
-• 7. Observa como os usuários interagem com a busca e navegação → busca entender comportamento dos clientes.  
-• ( Touchpoint — métricas básicas de uso)  
+## 3. Visualiza KPIs principais (visão executiva)
+Enxerga rapidamente:
+- livros mais buscados
+- livros parados
+- taxa de disponibilidade
+- itens com alta/baixa saída
 
-• 8. Identifica possíveis gargalos na organização ou dificuldade de localização → percebe pontos de melhoria operacional.  
-• ( Touchpoint — análise de dados simples no dashboard)  
+→ Emoção: alívio + clareza  
+→ Touchpoint: Dashboard (visão geral)  
+→ Funcionalidade: cards + alertas visuais
 
-• 9. Decide reorganizar categorias ou posicionamento de livros → sente maior controle estratégico do acervo.  
-• (Não é touchpoint direto)  
+---
 
-• 10. Aplica ajustes no sistema para refletir a nova organização → garante consistência entre digital e físico.  
-• ( Touchpoint — painel de gestão de acervo)  
+## 4. Identifica anomalias ou oportunidades
+Sistema destaca:
+- alta disponibilidade + baixa saída
+- categorias com baixo engajamento
+- possíveis gargalos
 
-• 11. Acompanha se os usuários estão conseguindo encontrar livros com mais facilidade → busca validar melhorias implementadas.  
-• ( Touchpoint — métricas de uso e performance)  
+→ Touchpoint: Insights automáticos  
+→ Funcionalidade: recomendações acionáveis
 
-• 12. Observa redução de dúvidas e dependência de atendimento → sente confiança na eficiência da operação.  
-• (Não é touchpoint direto)  
+---
 
-• 13. Percebe melhoria na organização e experiência dos clientes → sente satisfação e segurança nas decisões tomadas.  
-• (Não é touchpoint direto)  
+## 5. Aprofunda análise no acervo
+Explora listas com filtros inteligentes:
+- desempenho
+- categoria
+- uso
 
-• 14. Consolida o uso do sistema como ferramenta principal de gestão → sente-se uma gestora moderna e orientada a dados.  
-• ( Touchpoint — uso recorrente do dashboard administrativo)  
+→ Touchpoint: Lista de livros  
+→ Funcionalidade: filtros por comportamento
+
+---
+
+## 6. Analisa comportamento dos usuários
+Consulta:
+- buscas mais feitas
+- buscas sem resultado
+- taxa de sucesso
+
+→ Touchpoint: Painel de métricas de uso  
+→ Funcionalidade: analytics de busca
+
+---
+
+## 7. Identifica problemas concretos
+Conecta dados:
+- livros existem, mas não são encontrados
+- organização confusa
+- desalinhamento físico x digital
+
+→ Emoção: clareza estratégica  
+→ Touchpoint: cruzamento de dados
+
+---
+
+## 8. Toma decisão orientada por dados
+Decide:
+- reorganizar categorias
+- destacar livros
+- redistribuir acervo
+
+→ (Sem touchpoint)
+
+---
+
+## 9. Cria tarefas operacionais para equipe
+Transforma decisões em tarefas:
+- reorganizar seção X
+- verificar livros Y
+- corrigir localizações
+- remover itens danificados
+
+→ Touchpoint: Painel de gestão de tarefas  
+→ Funcionalidade:
+- criação de tarefas
+- atribuição por funcionário
+- definição de prioridade e prazo
+
+---
+
+## 10. Acompanha execução das tarefas
+Visualiza:
+- tarefas pendentes
+- em andamento
+- concluídas
+- com problema
+
+→ Touchpoint: Dashboard de tarefas  
+→ Funcionalidade:
+- status em tempo real
+- indicadores de produtividade
+
+---
+
+## 11. Analisa feedbacks da operação
+Recebe:
+- erros encontrados
+- dificuldades
+- sugestões
+
+→ Touchpoint: Painel de feedbacks  
+→ Funcionalidade:
+- comentários por tarefa
+- classificação de problemas
+
+---
+
+## 12. Monitora impacto das mudanças
+Observa:
+- melhoria na busca
+- redução de falhas
+- aumento de uso
+
+→ Touchpoint: Dashboard comparativo  
+→ Funcionalidade: antes/depois + métricas temporais
+
+---
+
+## 13. Valida eficiência operacional
+Percebe:
+- menos dúvidas
+- menos retrabalho
+- maior autonomia da equipe
+
+→ (Sem touchpoint)
+
+---
+
+## 14. Consolida uso do sistema
+Passa a usar continuamente para:
+- decidir
+- delegar
+- acompanhar
+
+→ Touchpoint: uso recorrente  
+→ Funcionalidade: histórico + padrões
+
+---
+
+## 15. Evolui para gestão estratégica
+Começa a:
+- antecipar problemas
+- otimizar processos
+- operar orientada a dados
+
+→ Emoção: segurança + controle
