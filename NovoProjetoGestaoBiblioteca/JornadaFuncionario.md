@@ -1,67 +1,166 @@
 # Jornada de Usuário — Organizar Acervo e Apoiar Atendimento (Funcionário Operacional)
 
-• 1. Percebe que há livros desorganizados, deixados na banca principal para serem organizados nas estantes → sente frustração com a desorganização e retrabalho.  
-• (Não é touchpoint direto)  
+## 1. Percebe desorganização no acervo
+Vê livros fora do lugar e retrabalho constante.
 
-• 2. Recolhe a pilha de livros para organizar → sente pressão para otimizar o tempo e evitar retrabalho.  
-• (Não é touchpoint direto)  
+→ Emoção: frustração  
+→ (Sem touchpoint)
 
-• 3. Acessa o sistema interno da biblioteca → busca uma forma mais rápida de organizar o acervo.  
-• ( Touchpoint — Tela Funcionário/Log-in personalizado)  
+---
 
-• 4. Vai Pesquisando e adicionando os livros e construindo rota personalizada → espera ganhar eficiência no processo.  
-• ( Touchpoint — gerador de rota de organização)  
+## 2. Acessa o sistema operacional
+Busca orientação clara do que fazer.
 
-• 5. Visualiza a rota sugerida com base na localização dos livros → sente clareza sobre por onde começar.  
-• ( Touchpoint — mapa com rota otimizada)  
+→ Touchpoint: Login do funcionário  
+→ Funcionalidade: painel personalizado
 
-• 6. Segue o passo a passo da rota no ambiente físico → sente fluidez e redução de esforço.  
-• ( Touchpoint — navegação guiada básica)  
+---
 
-• 7. Confere cada livro durante o percurso → tenta garantir que está no local correto.  
-• (Não é touchpoint direto)  
+## 3. Visualiza tarefas atribuídas pela gestão
+Enxerga:
+- lista de tarefas
+- prioridade
+- prazos
 
-• 8. Consulta detalhes do livro quando há dúvida → confirma onde o livro deveria estar.  
-• ( Touchpoint — tela de detalhe do livro)  
+→ Emoção: clareza  
+→ Touchpoint: Painel de tarefas  
+→ Funcionalidade:
+- status (pendente / em andamento)
+- ordenação por prioridade
 
-• 9. Reorganiza fisicamente os livros nas estantes corretas → sente progresso e organização crescente.  
-• (Não é touchpoint direto)  
+---
 
-• 10. Identifica inconsistências entre físico e digital → percebe falhas no sistema ou processo.  
-• (Não é touchpoint direto)  
+## 4. Seleciona tarefa para execução
+Exemplo:
+- organizar seção
+- corrigir localizações
+- verificar livros específicos
 
-• 11. Atualiza ou corrige a localização no sistema quando necessário → garante alinhamento entre físico e digital.  
-• ( Touchpoint — edição de localização do livro)  
+→ Touchpoint: detalhe da tarefa  
+→ Funcionalidade: instruções claras + contexto
 
-• 12. Encontra um livro maltratado ou danificado no acervo → sente preocupação com a qualidade do serviço.  
-• (Não é touchpoint direto)  
+---
 
-• 13. Remove o livro da estante → entende que ele não deve permanecer disponível ao público.  
-• (Não é touchpoint direto)  
+## 5. Gera rota otimizada de organização
+Sistema sugere ordem de execução com base na localização.
 
-• 14. Atualiza o status do livro como indisponível no sistema → mantém consistência entre físico e digital.  
-• ( Touchpoint — edição de status do livro)  
+→ Touchpoint: gerador de rota  
+→ Funcionalidade: otimização de percurso
 
-• 15. Registra o problema com descrição, origem e prioridade → sente controle e responsabilidade sobre a ocorrência.  
-• ( Touchpoint — formulário de registro de problemas)  
+---
 
-• 16. Acompanha o fluxo de clientes e demandas no ambiente → tenta priorizar tarefas e reduzir filas.  
-• (Não é touchpoint direto)  
+## 6. Visualiza rota no mapa
+Sabe exatamente por onde começar.
 
-• 17. Consulta promoções e novidades no sistema → se prepara para informar melhor os clientes.  
-• ( Touchpoint — painel de promoções/novidades)  
+→ Emoção: confiança  
+→ Touchpoint: mapa com rota
 
-• 18. Acessa metas e direcionamentos definidos pela gestão → entende prioridades e demandas da biblioteca.  
-• ( Touchpoint — painel de metas operacionais)  
+---
 
-• 19. Acompanha o status das queixas registradas → sente confiança de que será ouvido.  
-• ( Touchpoint — lista/status de ocorrências)  
+## 7. Executa organização física
+Segue a rota:
+- posiciona livros
+- organiza estantes
 
-• 20. Envia feedback sobre demandas, dificuldades e sugestões → sente-se valorizado pela gestão.  
-• ( Touchpoint — envio de feedback)  
+→ (Sem touchpoint)
 
-• 21. Finaliza a organização com o acervo atualizado e consistente → sente satisfação e controle sobre o trabalho.  
-• (Não é touchpoint direto)  
+---
 
-• 22. Passa a utilizar o sistema como apoio contínuo no dia a dia → sente-se mais eficiente, preparado e valorizado.  
-• ( Touchpoint — uso recorrente do sistema interno)   
+## 8. Consulta detalhes quando necessário
+Verifica:
+- localização correta
+- categoria
+- status
+
+→ Touchpoint: tela do livro
+
+---
+
+## 9. Corrige inconsistências
+Se encontrar erro:
+- ajusta localização
+- atualiza dados
+
+→ Touchpoint: edição de livro
+
+---
+
+## 10. Identifica problemas no acervo
+Exemplo:
+- livro danificado
+- item faltando
+- erro no sistema
+
+→ (Sem touchpoint)
+
+---
+
+## 11. Registra problema vinculado à tarefa
+Descreve:
+- tipo
+- prioridade
+- observações
+
+→ Touchpoint: registro de ocorrência  
+→ Funcionalidade: vinculação com tarefa
+
+---
+
+## 12. Atualiza status da tarefa
+Marca como:
+- concluída
+- concluída com problema
+- não concluída
+
+→ Touchpoint: atualização de tarefa  
+→ Funcionalidade: status + justificativa
+
+---
+
+## 13. Envia feedback para gestão
+Relata:
+- dificuldades
+- sugestões
+- melhorias
+
+→ Touchpoint: envio de feedback  
+→ Funcionalidade: comentário estruturado
+
+---
+
+## 14. Acompanha retorno da gestão
+Vê:
+- resposta aos problemas
+- decisões tomadas
+
+→ Emoção: valorização  
+→ Touchpoint: histórico de tarefas/feedbacks
+
+---
+
+## 15. Ajusta prioridades com base no fluxo
+Considera:
+- demanda de clientes
+- tarefas urgentes
+
+→ Touchpoint: painel atualizado em tempo real
+
+---
+
+## 16. Finaliza ciclo com acervo organizado
+Percebe:
+- menos retrabalho
+- mais eficiência
+
+→ Emoção: satisfação
+
+---
+
+## 17. Adota sistema como apoio contínuo
+Passa a usar diariamente para:
+- executar tarefas
+- se orientar
+- comunicar problemas
+
+→ Touchpoint: uso recorrente  
+→ Emoção: autonomia + segurança
